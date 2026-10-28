@@ -34,6 +34,7 @@ x402-enabled APIs and production services. No API keys. No accounts. Pay USDC pe
 - [Fly Labs Agentic Market](https://flylabs.fun/agents) — YouTube data APIs for AI agents. Transcribe ($0.03) and engagement analytics ($0.02) with structured JSON payloads. USDC on Base.
 - [GigSoul AI Research Agent](https://gig-x402-api.jayson-be1.workers.dev) — 23-endpoint AI research API: SEC filings, earnings calls, competitor analysis, market research, document intelligence. $0.01 USDC per call on Base.
 
+- [FastAF](https://fastaf.co/x402/?utm_source=gold-402&utm_medium=listing&utm_campaign=seo-backlinks) — Web data APIs for AI agents as JSON: Google SERP and search, web scraping and [JSON Schema extraction](https://fastaf.co/apis/extract-api/). x402 endpoints, USDC on Base, no account needed: SERP/search $0.003 per call, extract $0.02; only 200 responses are charged. ([OpenAPI](https://api.fastaf.co/v1/openapi.json) · [Docs](https://fastaf.co/docs/#x402))
 ---
 
 ## Crypto & DeFi Data
